@@ -14,7 +14,7 @@
         Remove this if you use the .htaccess -->
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
-        <title>Drummond Game</title>
+        <title>Drummond Games</title>
         <meta name="description" content="" />
         <meta name="author" content="Fabiano de Lima" />
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
