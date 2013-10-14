@@ -1,5 +1,5 @@
 @charset "utf-8";
-
+body{background-color:red}
 a{
 	margin:10px;
 	width: 316px;
@@ -26,4 +26,4 @@ a:hover img{
 }
 a:hover p{
 	color:#999;
-}*/
+}
